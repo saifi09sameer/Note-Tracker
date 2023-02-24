@@ -1,7 +1,3 @@
-## Practice
-
-This practice comprises 4 exercises
-
 ## Context
 
 Keep App is an app that allows user to maintain his daily todo tasks.
